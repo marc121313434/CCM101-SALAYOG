@@ -19,7 +19,9 @@
 
 4. Which cloud platform would you personally choose and why?  
 - I would personally choose Google Cloud Platform because of its strong focus on AI/ML and Kubernetes, which are critical for modern application development and data-driven innovation. Its competitive pricing and advanced analytics tools make it especially appealing for startups and research projects.
-------------------------Cloud Service Equivalents Table
+  
+    CLOUD SERVICE EQUIVALENTS TABLE 
+
 | Service Category | AWS (Amazon Web Services) | Microsoft Azure | Google Cloud Platform (GCP) |
 | --- | --- | --- | --- |
 | **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
