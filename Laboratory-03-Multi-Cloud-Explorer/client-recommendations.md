@@ -1,32 +1,35 @@
-*Brief Overview
+Client A – Startup Company
+Recommended Platform: Google Cloud Platform (GCP)  
+Reasoning: GCP is ideal for startups because of its competitive pricing, sustained-use discounts, and strong scalability features. It provides powerful developer tools and managed services that allow rapid deployment without heavy upfront costs. Its AI/ML capabilities also support future innovation as the company grows.
+Suggested Services:
 
-Google Cloud Platform (GCP) ay nagbibigay ng compute, storage, AI, at analytics services gamit ang parehong infrastructure ng Google Search at YouTube.
+- Google Compute Engine (VMs)
+- Firebase (mobile app backend)
+- Google Cloud Storage (scalable storage)
 
-*Global Infrastructure
+Client B – University
+Recommended Platform: Microsoft Azure  
+Reasoning: Since the university already uses Windows Server, Microsoft 365, and Active Directory, Azure offers seamless integration. Azure Active Directory extends identity management to the cloud, while hybrid solutions make migration smooth. This reduces complexity and ensures compatibility with existing Microsoft technologies.
+Suggested Services:
 
-- 43 Regions at 130 Zones
-- 200+ edge locations at 10M km subsea fiber network
-- 100% renewable energy commitment
+- Azure Virtual Machines
+- Azure Active Directory
+- Azure SQL Database
 
-*Cloud Management Console
+Client C – AI Research Company
+Recommended Platform: Google Cloud Platform (GCP)  
+Reasoning: GCP is the strongest in AI and ML, with TensorFlow, Vertex AI, and BigQuery. It provides high-performance computing resources and specialized hardware like TPUs (Tensor Processing Units) for training complex models. This makes it the best choice for research-intensive workloads.
+Suggested Services:
 
-Ang Google Cloud Console ay ginagamit para sa project/resource management, billing, at APIs.
+- Google Kubernetes Engine (GKE)
+- Vertex AI (ML development)
+- Tensor Processing Units (TPUs)
 
-*Four Core Services
-  
-- Compute Engine – virtual machines
-- Cloud Storage – object storage
-- BigQuery – analytics/data warehouse
-- Google Kubernetes Engine (GKE) – container orchestration
+Client D – Global E-Commerce Company
+Recommended Platform: Amazon Web Services (AWS)  
+Reasoning: AWS offers the most extensive global infrastructure, ensuring high availability and low latency for customers worldwide. Its auto-scaling, content delivery, and security services make it ideal for large-scale e-commerce operations. AWS’s breadth of services supports everything from payment processing to analytics.
+Suggested Services:
 
-*Three Advantages
-
-- Advanced AI/ML tools (Gemini, TensorFlow)
-- Competitive pricing at sustained-use discounts
-- Malakas sa big data analytics
-
-*Typical Enterprise Use Cases
-
-- AI/ML model training at deployment
-- Data analytics at visualization
-- Scalable web/mobile apps
+- Amazon EC2 (compute)
+- Amazon S3 (storage)
+- Amazon CloudFront (content delivery)
