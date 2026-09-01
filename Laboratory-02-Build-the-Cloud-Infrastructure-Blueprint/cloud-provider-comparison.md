@@ -6,7 +6,7 @@
 | **Identity & Access Management (IAM)** | AWS Identity and Access Management (IAM) | Azure Active Directory | Google Cloud IAM |
 
 1. Which cloud provider offers the broadest range of services?  
-AWS offers the broadest range of services, with over 200 fully featured offerings across compute, storage, databases, AI, IoT, and networking. Its global infrastructure and ecosystem maturity make it the most versatile option for enterprises needing diverse workloads. 
+- AWS offers the broadest range of services, with over 200 fully featured offerings across compute, storage, databases, AI, IoT, and networking. Its global infrastructure and ecosystem maturity make it the most versatile option for enterprises needing diverse workloads. 
 
 2. Which cloud platform would you recommend for an organization that primarily uses Microsoft products?  
 - Microsoft Azure is the best fit for organizations already invested in Microsoft technologies. It integrates seamlessly with Windows Server, SQL Server, Microsoft 365, and Active Directory, making hybrid cloud deployments straightforward and reducing compatibility issues. 
