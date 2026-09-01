@@ -26,7 +26,7 @@ Ang Google Cloud Console ay ginagamit para sa project/resource management, billi
 - Malakas sa big data analytics
 
 *Typical Enterprise Use Cases
-
+ 
 - AI/ML model training at deployment
 - Data analytics at visualization
 - Scalable web/mobile apps
