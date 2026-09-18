@@ -1,1 +1,10 @@
+Mission Reflection
+Looking back on this checkpoint, I realized how different the experience is between Docker containers and traditional Virtual Machines. A VM requires installing a full operating system, which can take several minutes to boot and configure. In contrast, a Docker container starts in seconds because it shares the host OS kernel and only needs to initialize the application environment. This speed and simplicity make containers far more efficient for rapid development and testing.
 
+When I deployed the Nginx container, I also learned the importance of port mapping. By default, services inside a container are isolated and cannot be accessed from the host machine. Using -p 8080:80 bridges that gap, mapping port 8080 on my laptop to port 80 inside the container. Without this, the web server would run but remain unreachable from outside the container.
+
+Another key lesson was about container data. When I used docker rm, the container was removed completely, along with any data stored inside it. This showed me that containers are ephemeral by default, and persistent data requires volumes or external storage. It was a reminder that container design must consider data management strategies.
+
+From a broader perspective, containerization changes how developers and operations teams collaborate. In a DevOps workflow, containers provide consistency: the same image runs identically in development, testing, and production. This reduces friction between teams, speeds up deployments, and makes scaling applications more reliable. It embodies the principle of “build once, run anywhere.”
+
+Finally, my GitHub portfolio continues to evolve. Each checkpoint adds not only technical files but also documentation that reflects my learning journey. I now have practical examples of container deployment, lifecycle management, and technical writing. This portfolio is becoming a strong showcase of both my technical skills and my ability to communicate clearly, which will be valuable for academic projects and future opportunities.
