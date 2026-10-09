@@ -33,40 +33,8 @@ docker-compose ps
 # Access Nextcloud via port 8080
 
 # Shut down deployment
-docker-compose down
-# Create project directory
-mkdir nextcloud-deployment
-cd nextcloud-deployment
 
-# Create Compose file
-nano docker-compose.yml
 
-# Deploy containers
-docker-compose up -d
-
-# Verify running containers
-docker-compose ps
-
-# Access Nextcloud via port 8080
-
-# Shut down deployment
-docker-compose down
-# Create project directory
-mkdir nextcloud-deployment
-cd nextcloud-deployment
-
-# Create Compose file
-nano docker-compose.yml
-
-# Deploy containers
-docker-compose up -d
-
-# Verify running containers
-docker-compose ps
-
-# Access Nextcloud via port 8080
-
-# Shut down deployment
 docker-compose down
 Skills Learned
 - Writing and understanding Docker Compose YAML files.
